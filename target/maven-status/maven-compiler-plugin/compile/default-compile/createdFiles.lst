@@ -1,0 +1,9 @@
+zomato\util\Resources.class
+zomato\data\MemberListProducer.class
+zomato\controller\MemberController.class
+zomato\model\Member.class
+zomato\rest\MemberResourceRESTService.class
+zomato\model\Member_.class
+zomato\rest\JaxRsActivator.class
+zomato\data\MemberRepository.class
+zomato\service\MemberRegistration.class
